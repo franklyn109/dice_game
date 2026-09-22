@@ -135,4 +135,9 @@ footer {
   .table {
     gap: 20px;
   }
+  .table {
+    display: flex;
+    flex-direction: column;
+    align-item: center;
+  }
 }
